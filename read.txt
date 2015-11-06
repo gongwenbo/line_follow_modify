@@ -1,0 +1,2 @@
+要启动 turtlebot_bringup 包里的 minimal.launch 文件；
+必要时启动 logitech 的包；
