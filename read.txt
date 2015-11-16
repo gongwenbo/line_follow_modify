@@ -1,2 +1,3 @@
 要启动 turtlebot_bringup 包里的 minimal.launch 文件；
 必要时启动 logitech 的包；
+line_follower_arduino 是aduino 光感循迹
